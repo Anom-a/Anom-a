@@ -13,7 +13,6 @@
 - 🔧 Backend developer focused on **Go & REST APIs**
 - 🧠 Strong foundation in **Python, SQL, and system design**
 - 🤖 Building skills in **Machine Learning & Computer Vision**
-- 🔐 Cybersecurity fundamentals completed
 - 🌍 Passionate about building **real-world systems from Africa**
 - 🎯 Goal: impactful software, remote-ready engineering
 
