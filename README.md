@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anom-a&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anom-a&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 - 💼 Open to collaboration & learning
 - 🌱 Always improving — one project at a time
