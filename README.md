@@ -31,7 +31,6 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Task Management REST API (Go + Gin + MongoDB)**
 - 🔹 **SQL-Based Logistics & Supply Chain System**
 - 🔹 **TCP Client–Server Applications (Java)**
 - 🔹 **Data Analysis Projects using Python**
