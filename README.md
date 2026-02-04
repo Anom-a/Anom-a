@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anom Abebe</h1>
 <h3 align="center">Software Engineering Student | Backend & ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Anom-a">
-    <img src="https://komarev.com/ghpvc/?username=Anom-a&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 - 🔧 Backend developer focused on **Go & REST APIs**
