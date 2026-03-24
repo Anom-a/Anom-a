@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anom Abebe</h1>
-<h3 align="center">Software Engineering Student | Backend & ML Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Backend & Machine Learning Focus</h3>
 
+---
 
 ## 🚀 About Me
-- 🔧 Backend developer focused on **Go & REST APIs**
-- 🧠 Strong foundation in **Python, SQL, and system design**
-- 🤖 Building skills in **Machine Learning & Computer Vision**
-- 🌍 Passionate about building **real-world systems from Africa**
-- 🎯 Goal: impactful software, remote-ready engineering
+- 🔧 Building backend systems using **Go (Gin) & REST APIs**
+- 🧠 Strong foundation in **Python, SQL, and data-driven systems**
+- 🤖 Transitioning into **Machine Learning & MLOps**
+- 🏗️ Focused on writing **clean, maintainable backend architecture**
+- 🌍 Interested in building **real-world systems from Africa**
+- 🎯 Goal: backend & ML engineering roles with real impact
 
 ---
 
@@ -20,6 +22,7 @@
 
 ### Backend & Databases
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -31,14 +34,53 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **SQL-Based Logistics & Supply Chain System**
-- 🔹 **TCP Client–Server Applications (Java)**
-- 🔹 **Data Analysis Projects using Python**
 
-> 📌 More projects coming as I build in public.
+### 🏫 Leather College Portal
+> A structured system for managing academic workflows and institutional data  
+
+- Designed backend-driven architecture for handling multiple entities  
+- Built organized data models for academic workflows  
+- Focused on maintainability and clean system structure  
+
+---
+
+### ⚙️ Orchestrix
+> A system-focused application for organizing backend processes and workflows  
+
+- Designed modular architecture for scalable system coordination  
+- Structured backend logic for clear separation of responsibilities  
+- Focused on managing complexity through clean design  
+
+---
+
+### ⭐ Rate My Professors
+> A platform for submitting and viewing professor ratings  
+
+- Built system for handling user-generated data  
+- Designed structured data models for storing and retrieving reviews  
+- Implemented backend logic for managing submissions  
+
+---
+
+## 📈 Current Focus
+- 🔍 Improving backend system design and architecture  
+- 🤖 Moving into **production-level machine learning systems**  
+- ⚙️ Learning **MLOps and deployment practices**  
+
+---
+
+## 🎯 Goals
+- Become a strong **backend engineer with ML integration skills**  
+- Build systems that solve **real-world problems at scale**  
+- Transition from student projects → **production-level engineering**  
 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 Open to collaboration & learning
-- 🌱 Always improving — one project at a time
+- 💼 Open to internships and junior engineering roles  
+- 🌱 Building consistently and improving every day  
+
+---
+
+## ⚡ Philosophy
+> Focus on building real systems, not just projects.
