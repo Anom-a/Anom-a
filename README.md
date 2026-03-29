@@ -31,36 +31,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
----
-
-## 📌 Featured Projects
-
-### 🏫 Leather College Portal
-> A structured system for managing academic workflows and institutional data  
-
-- Designed backend-driven architecture for handling multiple entities  
-- Built organized data models for academic workflows  
-- Focused on maintainability and clean system structure  
-
----
-
-### ⚙️ Orchestrix
-> A system-focused application for organizing backend processes and workflows  
-
-- Designed modular architecture for scalable system coordination  
-- Structured backend logic for clear separation of responsibilities  
-- Focused on managing complexity through clean design  
-
----
-
-### ⭐ Rate My Professors
-> A platform for submitting and viewing professor ratings  
-
-- Built system for handling user-generated data  
-- Designed structured data models for storing and retrieving reviews  
-- Implemented backend logic for managing submissions  
-
----
+----
 
 ## 📈 Current Focus
 - 🔍 Improving backend system design and architecture  
