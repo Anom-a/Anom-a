@@ -31,27 +31,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-----
-
-## 📈 Current Focus
-- 🔍 Improving backend system design and architecture  
-- 🤖 Moving into **production-level machine learning systems**  
-- ⚙️ Learning **MLOps and deployment practices**  
-
----
-
-## 🎯 Goals
-- Become a strong **backend engineer with ML integration skills**  
-- Build systems that solve **real-world problems at scale**  
-- Transition from student projects → **production-level engineering**  
-
----
-
-## 🤝 Let’s Connect
-- 💼 Open to internships and junior engineering roles  
-- 🌱 Building consistently and improving every day  
-
----
-
-## ⚡ Philosophy
-> Focus on building real systems, not just projects.
