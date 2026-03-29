@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anom Abebe</h1>
-<h3 align="center">Software Engineering Student | Backend & Machine Learning Focus</h3>
+<h3 align="center"> Backend Engineer| Go · Python · AI Systems </h3>
 
 ---
 
